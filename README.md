@@ -1,5 +1,7 @@
 # url-super-encoder
 
+[![Build Status](https://travis-ci.com/reergymerej/url-super-encoder.svg?token=AiAzfY2MJmZkDBAp517s&branch=master)](https://travis-ci.com/reergymerej/url-super-encoder)
+
 
 ## Why?
 

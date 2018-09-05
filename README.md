@@ -48,7 +48,7 @@ We need encoding and decoding.
 }
 ```
 
-encodes to (not leading 0)
+encodes to (note leading 0)
 
 ```
 0101
@@ -64,3 +64,7 @@ decodes, using key (names and order of values)
   quux: true,
 }
 ```
+
+## Dev
+
+`yarn test` and all that
